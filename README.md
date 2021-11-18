@@ -1,7 +1,7 @@
 # Goldsmith workbench extension
 *by Jens Dyvik, November 2021*
 
-Add-on for converting a workbench or table into a goldsmith workbench. Designed t be CNC milled, with the small drawers to be 3D printed.
+Add-on for converting a workbench or table into a goldsmith workbench. Designed to be CNC milled, with the small drawers to be 3D printed.
 
 ***
 
@@ -9,8 +9,10 @@ The files have been made with Freecad, free open design software. You can downlo
 
 ### Files
 
- - Download link to the [main design file](https://github.com/JensDyvik/goldsmith-workbench-extension/blob/main/goldsmith-workbench-extension.FCStd)
-
+ - [Main design file](https://github.com/JensDyvik/goldsmith-workbench-extension/blob/main/goldsmith-workbench-extension.FCStd)
+ - CNC files, not yet finished
+ - Drawer [3D print files](), mirror the files for the other side
+ 
 ### Images
 
 ![](img/goldsmith-workbench-extension-freecad.JPG)
